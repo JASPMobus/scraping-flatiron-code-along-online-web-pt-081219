@@ -16,8 +16,8 @@ class Scraper
     end
   end
   
-  def get_page(url)
-    open(url)
+  def get_page
+    
   end
 end
 
