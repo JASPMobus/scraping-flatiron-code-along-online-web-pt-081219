@@ -19,7 +19,6 @@ class Scraper
   def get_page(url)
     
   end
-  
 end
 
 
